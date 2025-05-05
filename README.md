@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### 🎞️ Frame-based Camera
 
-If you want to process the data from a frame-based camera, you can run the [`shipin.py`](utils/shipin.py) in the in utils.We applied Face Mesh technology to precisely detect facial landmarks, enabling us to accurately isolate and subsequently crop out the mouth area.
+If you want to process the data from a frame-based camera, you can run the [`video.py`](utils/video.py) in the in utils.We applied Face Mesh technology to precisely detect facial landmarks, enabling us to accurately isolate and subsequently crop out the mouth area.
 
 ```
 python shipin.py
