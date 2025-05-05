@@ -41,4 +41,4 @@ You need to run the [`main.py`](3D-ResNets/main.py) file in 3D-ResNets for the e
 For specific steps and model details, please refer to the provided reference.
 
 ## ***References***
-* [3D-ResNet]([https://github.com/Jiewen-Yang/RViT/](https://github.com/kenshohara/3D-ResNets-PyTorch)
+* [3D-ResNet](https://github.com/kenshohara/3D-ResNets-PyTorch)
